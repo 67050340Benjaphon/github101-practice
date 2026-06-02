@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Benjaporn Rueangwutchanaphuech | Team 17 | Hacker | [evidence](https://github.com/67050340Benjaphon/github101-practice/blob/46dbe3f35182e3241d24710f40ace1c148e86441/docs/evidence/67050340_Benjaporn) | [issue]() |
+| Benjaporn Rueangwutchanaphuech | Team 17 | Hacker | [evidence](https://github.com/67050340Benjaphon/github101-practice/blob/46dbe3f35182e3241d24710f40ace1c148e86441/docs/evidence/67050340_Benjaporn) | [issue](https://github.com/67050340Benjaphon/github101-practice/blob/9b415d4571337863c1702e94981890c38bd99887/docs/issues/67050340_Benjaporn) |
 
 ---
 
