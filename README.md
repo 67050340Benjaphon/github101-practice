@@ -21,7 +21,7 @@ Repo นี้ใช้สำหรับสอบปฏิบัติ GitHub 1
 
 | Name | Team | Role | Evidence File | Issue Link |
 |---|---|---|---|---|
-| Example Student | Team 00 | Demo | [example evidence](docs/evidence/example-student.md) | - |
+| Benjaporn Rueangwutchanaphuech | Team 17 | Hacker | [evidence](docs/evidence/example-student.md) | - |
 
 ---
 
@@ -52,7 +52,7 @@ docs/evidence/66000000-somchai.md
 ใช้ template นี้ในไฟล์ evidence ของตนเอง
 
 ```markdown
-# GitHub Practice Evidence — [ชื่อ-สกุล]
+# GitHub Practice Evidence — [Benjaporn Rueangwutchanaphuech]
 
 ## What I did
 อธิบายว่าทำอะไรใน GitHub
