@@ -2,14 +2,14 @@
 
 ## Title
 
-[Practice] Add my GitHub evidence
+
 
 ## Description
 
 ### What I need to do
-- [ ] Edit README
-- [ ] Add evidence file
-- [ ] Submit links
+- [✔️] Edit README
+- [✔️] Add evidence file
+- [✔️] Submit links
 
 ### Evidence
 - README link:
@@ -17,7 +17,7 @@
 - Commit link:
 
 ### Blocker
-- ไม่มี / มี: ...
+- มี : VScode และ Github
 
 ### Need help from
-- Scrum Lead / teammate / TA / อาจารย์
+- teammate
